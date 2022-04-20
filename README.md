@@ -1,6 +1,6 @@
 # CS255
 
-<b> Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design? </b>
+<b><i> Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design? </b></i>
 <br> The DriverPass project revolved around a company that wanted to offer training and lessons to customers who wish to pass their driving exam at the DMV. The client was Liam, the owner of DriverPass, and Ian, the IT officer at DriverPass. They wanted a system that would allow customers to purchase one of three driving lesson packages, register for in-person driving lessons and DMV policy lessons, take online courses, and take practice tests. While the owner and IT officer work on the back end to manage customers, the customers will be able to interact with the DriverPass secretaries and instructors in order to arrange in-car lessons.
 
 <b> What did you do particularly well? </b>
