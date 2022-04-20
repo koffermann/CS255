@@ -7,7 +7,9 @@ The DriverPass project revolved around a company that wanted to offer training a
 This is honestly a difficult question to answer because I am not sure that I excelled at any part of this project in particular. I guess if there is a part of the project that I feel proud of, it is the diagrams that I made. They were far from perfect, but I took my time to work with the different types of UML charts and become more comfortable with them then I've been in previous courses.
 
 <b> If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it? </b>
-I could choose one part of my work to revise, I would choose just about every part and see if there is anything more that I can add or remove to make the document itself more cohesive. I always feel more pressure when I am creating something new, but when I have the time to go back and really take my time to look over everything I feel more comfortable in terms of 
+I could choose one part of my work to revise, I would choose just about every part and see if there is anything more that I can add or remove to make the document itself more cohesive. I have a tendency to pour everything I know and/or learned into my work. Sometimes, it can be too much or it just does not connect very well. If I could go back, I would arrange for a third-party to spend a few minutes with my project and tell me if it is something that they were able to follow with some ease.
 
-How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
-How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+<b> How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing? </b>
+I interpreted the user's needs by taking notes on all the things they should be able to do in the system, and I implemented it into my system design by considering the most efficient method to getting those needs met. 
+
+<b> How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system? </b>
